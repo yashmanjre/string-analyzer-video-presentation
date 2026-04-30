@@ -103,6 +103,8 @@ int main() {
     return 0;
 }
 
+```
+
 ---
 
 ## 💡 Applications
